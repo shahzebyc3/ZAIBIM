@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ZAIBI BOT STORE & SERVICES</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body{
+      margin:0;
+      font-family: Arial, Helvetica, sans-serif;
+      background:#f4f4f4;
+      text-align:center;
+    }
+    header{
+      background:#0a8f3c;
+      color:#fff;
+      padding:20px;
+    }
+    header img{
+      max-width:280px;
+      border-radius:10px;
+    }
+    .container{
+      padding:20px;
+    }
+    .card{
+      background:#fff;
+      border-radius:12px;
+      padding:20px;
+      margin:15px auto;
+      max-width:400px;
+      box-shadow:0 0 10px rgba(0,0,0,0.1);
+    }
+    .btn{
+      display:block;
+      margin:10px 0;
+      padding:15px;
+      background:#25D366;
+      color:#fff;
+      text-decoration:none;
+      font-weight:bold;
+      border-radius:8px;
+    }
+    .btn.channel{background:#128C7E;}
+    .btn.group{background:#075E54;}
+    footer{
+      background:#0a8f3c;
+      color:#fff;
+      padding:15px;
+      margin-top:20px;
+      font-size:14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <img src="logo.png" alt="ZAIBI BOT STORE LOGO">
+  <h2>ZAIBI BOT STORE & SERVICES</h2>
+  <p>Trusted Seller | Fast Delivery</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h3>📞 Contact on WhatsApp</h3>
+    <a class="btn" href="https://wa.me/923305364831" target="_blank">
+      Chat on WhatsApp
+    </a>
+  </div>
+
+  <div class="card">
+    <h3>📢 WhatsApp Channel</h3>
+    <a class="btn channel" href="https://whatsapp.com/channel/0029VbBcCFNEgGfOpDjJW93U" target="_blank">
+      Follow Channel
+    </a>
+  </div>
+
+  <div class="card">
+    <h3>👥 WhatsApp Group</h3>
+    <a class="btn group" href="https://chat.whatsapp.com/E6boODZ5lyR0yZQxsknCmW" target="_blank">
+      Join Group
+    </a>
+  </div>
+
+  <div class="card">
+    <h3>📊 Social Stats</h3>
+    <p>Followers: <b>10,000+</b></p>
+    <p>Likes: <b>50,000+</b></p>
+    <p>Active Users: <b>Daily</b></p>
+  </div>
+
+</div>
+
+<footer>
+  © 2026 ZAIBI BOT STORE & SERVICES <br>
+  DM For Deals
+</footer>
+
+</body>
+</html>
